@@ -1,6 +1,6 @@
 # Lucid [![codecov](https://codecov.io/gh/appnexus/lucid/branch/master/graph/badge.svg)](https://codecov.io/gh/appnexus/lucid)
 
-A UI component library from AppNexus.
+A UI component library from AppNexus. Forked on 02/07/2020 by UX-Rex
 
 ## Install
 
